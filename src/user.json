@@ -1,0 +1,596 @@
+[
+	{
+		'studentId': '17sta001',
+		'fullName': 'Md. Nazmus Sayeed',
+		'email': 'nazmus.sayeed55@gmail.com',
+		'phone': '01796-520447',
+		'bloodGroup': 'o+',
+		'district': 'Kushtia',
+		'avatar': 'nabil1'
+	},
+	{
+		'studentId': '17sta002',
+		'fullName': 'Asif Ahmed',
+		'email': 'asifahmedif2@gmail.com',
+		'phone': '01859-176713',
+		'bloodGroup': 'a+',
+		'district': 'Khulna',
+		'avatar': 'asif2'
+	},
+	{
+		'studentId': '17sta003',
+		'fullName': 'Md Amanat Ullah Arman',
+		'email': 'megpalakamanat@gmail.com',
+		'phone': '01740-768725',
+		'bloodGroup': 'a+',
+		'district': 'Noakhali',
+		'avatar': 'amanat3'
+	},
+	{
+		'studentId': '17sta004',
+		'fullName': 'Tuli Barai',
+		'email': 'tulibarai99@gmail.com',
+		'phone': '01727-225570',
+		'bloodGroup': 'o+',
+		'district': 'Bagerhat',
+		'avatar': 'tuli4'
+	},
+	{
+		'studentId': '17sta005',
+		'fullName': 'Prionty Ghosh',
+		'email': 'prionty.ghosh007@gmail.com',
+		'phone': '01727-238907',
+		'bloodGroup': 'o+',
+		'district': 'Dhaka',
+		'avatar': 'prionty5'
+	},
+	{
+		'studentId': '17sta007',
+		'fullName': 'Mahabubul Alam',
+		'email': 'mahabubulalam818@gmail.com',
+		'phone': '01770-948443/01521-514939',
+		'bloodGroup': 'o+',
+		'district': 'Sherpur',
+		'avatar': 'mahabubul7'
+	},
+	{
+		'studentId': '17sta008',
+		'fullName': 'Md.Zulkarnain Sajid',
+		'email': 'Zulkarnainsajid6847@gmail.com',
+		'phone': '01832-333777',
+		'bloodGroup': 'a+',
+		'district': 'Bhola',
+		'avatar': 'zulkarnain8'
+	},
+	{
+		'studentId': '17sta009',
+		'fullName': 'Md Abbas Uddin',
+		'email': 'abbasuddinkic@gmail.com',
+		'phone': '01706-144636',
+		'bloodGroup': 'a+',
+		'district': 'Kushtia',
+		'avatar': 'abbas9'
+	},
+	{
+		'studentId': '17sta010',
+		'fullName': 'Orin Kumar Das Jitu',
+		'email': 'orindas007@gmail.com',
+		'phone': '01988-466857',
+		'bloodGroup': 'ab+',
+		'district': 'Khulna',
+		'avatar': 'orin10'
+	},
+	{
+		'studentId': '17sta011',
+		'fullName': 'Mst Halima Khatun',
+		'email': 'halimakhatun7284@gmail.com',
+		'phone': '01955-642323',
+		'bloodGroup': 'o+',
+		'district': 'Chuadanga',
+		'avatar': 'halima11'
+	},
+	{
+		'studentId': '17sta012',
+		'fullName': 'Susmita Saha',
+		'email': 'mitas9437@gmail.com',
+		'phone': '01721-654030',
+		'bloodGroup': 'a+',
+		'district': 'Barisal',
+		'avatar': 'susmita12'
+	},
+	{
+		'studentId': '17sta013',
+		'fullName': 'Jannatul Ferdous Bithy',
+		'email': 'bithy.sta@gmail.com',
+		'phone': '01755-032786',
+		'bloodGroup': 'a+',
+		'district': 'Chapai Nawabganj',
+		'avatar': 'bithy13'
+	},
+	{
+		'studentId': '17sta014',
+		'fullName': 'Nazmus Sakib',
+		'email': 'nsakib7869@gmail.com',
+		'phone': '01794-197869',
+		'bloodGroup': 'b+',
+		'district': 'Jessore',
+		'avatar': 'sakib14'
+	},
+	{
+		'studentId': '17sta015',
+		'fullName': 'Monirul Islam Shaju',
+		'email': 'monir.ben48@gmail.com',
+		'phone': '01712-253538',
+		'bloodGroup': 'o+',
+		'district': 'Jessore',
+		'avatar': 'monirul15'
+	},
+	{
+		'studentId': '17sta016',
+		'fullName': 'Uttam Ray',
+		'email': 'uttamray297@gmail.com',
+		'phone': '01798-333345',
+		'bloodGroup': 'o+',
+		'district': 'Bagerhat',
+		'avatar': 'uttom16'
+	},
+	{
+		'studentId': '17sta017',
+		'fullName': 'Nazmul Hossain',
+		'email': 'Nazmulsetubd@gmail.com',
+		'phone': '01789-585957',
+		'bloodGroup': 'Unavailable',
+		'district': 'Kurigram',
+		'avatar': 'nazmul17'
+	},
+	{
+		'studentId': '17sta019',
+		'fullName': 'Md Shourav',
+		'email': 'mdshourav2502@gmail.com',
+		'phone': '01916-664546',
+		'bloodGroup': 'b+',
+		'district': 'Kushtia',
+		'avatar': 'shourav19'
+	},
+	{
+		'studentId': '17sta020',
+		'fullName': 'Md. Momenul Islam',
+		'email': 'momenulbd5822@gmail.com',
+		'phone': '01737-708527',
+		'bloodGroup': 'ab+',
+		'district': 'Dinajpur',
+		'avatar': 'momenul20'
+	},
+	{
+		'studentId': '17sta021',
+		'fullName': 'Md.Ataur Rahman',
+		'email': 'ataur1769@gmail.com',
+		'phone': '01722-716912',
+		'bloodGroup': 'b+',
+		'district': 'Lalmonirhat',
+		'avatar': 'ataur21'
+	},
+	{
+		'studentId': '17sta023',
+		'fullName': 'Md. Shawon Hossain',
+		'email': 'hossainshawon023@gmail.com',
+		'phone': '01709-336493',
+		'bloodGroup': 'o+',
+		'district': 'Jessore',
+		'avatar': 'shawon23'
+	},
+	{
+		'studentId': '17sta024',
+		'fullName': 'Tamanna Rahman',
+		'email': 'tamanna.rahman.098@gmail.com',
+		'phone': '01781-867230',
+		'bloodGroup': 'b+',
+		'district': 'Bagerhat',
+		'avatar': 'tamanna24'
+	},
+	{
+		'studentId': '17sta026',
+		'fullName': 'MD. Jaharul Islam',
+		'email': 'jaharulislam77@gmail.com',
+		'phone': '01704-405139',
+		'bloodGroup': 'a+',
+		'district': 'Mymensingh',
+		'avatar': 'jahirul26'
+	},
+	{
+		'studentId': '17sta027',
+		'fullName': 'Limon Adhikari',
+		'email': 'limonadhikari090@gmail.com',
+		'phone': '01794-869515',
+		'bloodGroup': 'b+',
+		'district': 'Lalmonirhat ',
+		'avatar': 'limon27'
+	},
+	{
+		'studentId': '17sta029',
+		'fullName': 'Fahim Ferdous',
+		'email': 'fahimferdous29@gmail.com',
+		'phone': '01780-608885',
+		'bloodGroup': 'o+',
+		'district': 'Kushtia ',
+		'avatar': 'fahin29'
+	},
+	{
+		'studentId': '17sta030',
+		'fullName': 'Parimol Kumar Paul',
+		'email': 'porimolkumarpaul666@gmail.com',
+		'phone': '01962-720416',
+		'bloodGroup': 'o+',
+		'district': 'Khulna',
+		'avatar': 'porimal30'
+	},
+	{
+		'studentId': '17sta031',
+		'fullName': 'Md. Nominuzzaman',
+		'email': 'Nominuzzamannoyon@gmail.com',
+		'phone': '01794-977890',
+		'bloodGroup': 'ab+',
+		'district': 'Thakurgaon',
+		'avatar': 'noyon31'
+	},
+	{
+		'studentId': '17sta032',
+		'fullName': 'Sonoth Kumar',
+		'email': 'sonothkumar1000@gmail.com',
+		'phone': '01746-060726',
+		'bloodGroup': 'b+',
+		'district': 'Rajshahi',
+		'avatar': 'sonot32'
+	},
+	{
+		'studentId': '17sta034',
+		'fullName': 'Salahuddin Ahammed',
+		'email': 'bdsalahuddin078@gmail.com',
+		'phone': '01734-073905',
+		'bloodGroup': 'b+',
+		'district': 'Tangail',
+		'avatar': 'salahuddin34'
+	},
+	{
+		'studentId': '17sta035',
+		'fullName': 'Md. Mostafizur Rahman Rasel',
+		'email': 'mrrasel448@gmail.com',
+		'phone': '01797-166861',
+		'bloodGroup': 'b+',
+		'district': 'Chuadanga',
+		'avatar': 'rasel35'
+	},
+	{
+		'studentId': '17sta036',
+		'fullName': 'Mafuza Sultana Ruma',
+		'email': 'mafuza97@gmail.com',
+		'phone': '01721-702083',
+		'bloodGroup': 'b+',
+		'district': 'Bagerhat',
+		'avatar': 'mafuza36'
+	},
+	{
+		'studentId': '17sta037',
+		'fullName': 'Nipa Khanom',
+		'email': 'bsmrstunipakhan@gmail.com',
+		'phone': '01772-485201',
+		'bloodGroup': 'o+',
+		'district': 'Faridpur',
+		'avatar': 'nipa37'
+	},
+	{
+		'studentId': '17sta038',
+		'fullName': 'Anika Tabassum',
+		'email': 'Unavailable',
+		'phone': '01983-654406',
+		'bloodGroup': 'ab+',
+		'district': 'Khulna',
+		'avatar': 'anika38'
+	},
+	{
+		'studentId': '17sta039',
+		'fullName': 'Yeasin Ali',
+		'email': 'mdyeasinali03@gmail.com',
+		'phone': '01749-906677',
+		'bloodGroup': 'o+',
+		'district': 'Gazipur',
+		'avatar': 'yeasin39'
+	},
+	{
+		'studentId': '17sta041',
+		'fullName': 'Mahafujur Rahman',
+		'email': 'mahafujur4321@gmail.com',
+		'phone': '01751-494144',
+		'bloodGroup': 'o+',
+		'district': 'Dinajpur',
+		'avatar': 'mahafuzur41'
+	},
+	{
+		'studentId': '17sta042',
+		'fullName': 'Kowshik',
+		'email': 'pias754@gmail.com',
+		'phone': '01765-067796',
+		'bloodGroup': 'o+',
+		'district': 'Chapai Nawabgonj',
+		'avatar': 'pias42'
+	},
+	{
+		'studentId': '17sta043',
+		'fullName': 'Abida Anam',
+		'email': 'abidanam15@gmail.com',
+		'phone': '01517-127573',
+		'bloodGroup': 'o+',
+		'district': 'Khulna',
+		'avatar': 'abida43'
+	},
+	{
+		'studentId': '17sta044',
+		'fullName': 'Sadik Hasan Adib',
+		'email': 'sadikhasanadib018@gmail.com',
+		'phone': '01794-517054',
+		'bloodGroup': 'o+',
+		'district': 'Jessore',
+		'avatar': 'sadik44'
+	},
+	{
+		'studentId': '17sta045',
+		'fullName': 'MD. Nazmul Haque',
+		'email': 'haquenazmul138@gmail.com',
+		'phone': '01770-546269',
+		'bloodGroup': 'o+',
+		'district': 'Jhenaidah ',
+		'avatar': 'nazmul45'
+	},
+	{
+		'studentId': '17sta046',
+		'fullName': 'Rishalat Ahmed Arnob',
+		'email': 'aarnob.sta@gmail.com',
+		'phone': '01748-046980',
+		'bloodGroup': 'b+',
+		'district': 'Mymensingh',
+		'avatar': 'arnob46'
+	},
+	{
+		'studentId': '17sta047',
+		'fullName': 'Md. Jiarul Islam',
+		'email': 'jiarulbmrstu@gmail.com',
+		'phone': '01773-380937',
+		'bloodGroup': 'b+',
+		'district': 'Kurigram',
+		'avatar': 'jiarul47'
+	},
+	{
+		'studentId': '17sta048',
+		'fullName': 'Md. Ferdous Hossain',
+		'email': 'ferdoussta17@gmail.com',
+		'phone': '01792-300224',
+		'bloodGroup': 'Unavailable',
+		'district': 'Sherpur ',
+		'avatar': 'ferdous48'
+	},
+	{
+		'studentId': '17sta049',
+		'fullName': 'Md. Rakibul Islam',
+		'email': 'rakibul852@gmail.com',
+		'phone': '01950-146411',
+		'bloodGroup': 'b+',
+		'district': 'Jessore',
+		'avatar': 'rakib49'
+	},
+	{
+		'studentId': '17sta050',
+		'fullName': 'Md. Monirul Hasan Monir',
+		'email': 'monirulhasan1996@gmail.com',
+		'phone': '01755-240945/01982-231984',
+		'bloodGroup': 'a+',
+		'district': 'Nilphamari ',
+		'avatar': 'monir50'
+	},
+	{
+		'studentId': '17sta051',
+		'fullName': 'Md. A. Barik',
+		'email': 'barikbsmrstu@gmail.com',
+		'phone': '01750-837498',
+		'bloodGroup': 'Unavailable',
+		'district': 'Naogaon',
+		'avatar': 'barik51'
+	},
+	{
+		'studentId': '17sta052',
+		'fullName': 'Mozahid UL Hoque',
+		'email': 'mozahid17sta052bsmrstu@gmail.com',
+		'phone': '01790-267710',
+		'bloodGroup': 'a+',
+		'district': 'Cox\'s Bazar',
+		'avatar': 'mozahid52'
+	},
+	{
+		'studentId': '17sta054',
+		'fullName': 'Imam Hossain',
+		'email': 'imamhossain4241@gmail.com',
+		'phone': '01969-424138',
+		'bloodGroup': 'a+',
+		'district': 'Noakhali',
+		'avatar': 'imran54'
+	},
+	{
+		'studentId': '17sta055',
+		'fullName': 'Ibrahim Hossen',
+		'email': 'ibrahimhoss16@gmail.com',
+		'phone': '01771-229243',
+		'bloodGroup': 'o+',
+		'district': 'Jessore',
+		'avatar': 'ibrahim55'
+	},
+	{
+		'studentId': '17sta056',
+		'fullName': 'Rokaiya Khatun',
+		'email': 'rokaiyabasar@gmail.com',
+		'phone': '01919-823001',
+		'bloodGroup': 'a+',
+		'district': 'Khulna',
+		'avatar': 'rokaiya56'
+	},
+	{
+		'studentId': '17sta057',
+		'fullName': 'Shojib Ahmed',
+		'email': 'shojibahmed251@gmail.com',
+		'phone': '01517-105057',
+		'bloodGroup': 'o+',
+		'district': 'Kushtia',
+		'avatar': 'sojib57'
+	},
+	{
+		'studentId': '17sta058',
+		'fullName': 'Ripon Sarkar',
+		'email': 'riponsarker258@gmail.com',
+		'phone': '01856-310881',
+		'bloodGroup': 'b+',
+		'district': 'Jessore',
+		'avatar': 'ripon58'
+	},
+	{
+		'studentId': '17sta059',
+		'fullName': 'Shakil Khan',
+		'email': 'charipara2011@gmail.com',
+		'phone': '01625-036109',
+		'bloodGroup': 'b+',
+		'district': 'Munshiganj',
+		'avatar': 'shakil59'
+	},
+	{
+		'studentId': '17sta060',
+		'fullName': 'Md. Shamim Sheikh',
+		'email': 'shamimsheikh2019@gmail.com',
+		'phone': '01722-657722',
+		'bloodGroup': 'b+',
+		'district': 'Gaibandha',
+		'avatar': 'shamim60'
+	},
+	{
+		'studentId': '17sta061',
+		'fullName': 'Md. Sumon Ali',
+		'email': 'sumon.esd.bsmrstu@gmail.com',
+		'phone': '01728-903454',
+		'bloodGroup': 'b+',
+		'district': 'Chapai Nawabgonj',
+		'avatar': 'sumon61'
+	},
+	{
+		'studentId': '17sta062',
+		'fullName': 'S. M. Mahadi Hasan',
+		'email': 'mart.hasan94@gmail.com',
+		'phone': '01911-587957',
+		'bloodGroup': 'b+',
+		'district': 'Jessore',
+		'avatar': 'mahadi62'
+	},
+	{
+		'studentId': '17sta063',
+		'fullName': 'Fahmida Islam Bithy',
+		'email': 'fahmidaislam.1999@gmail.com',
+		'phone': '01837-500118',
+		'bloodGroup': 'b+',
+		'district': 'Khulna',
+		'avatar': 'fahmida63'
+	},
+	{
+		'studentId': '17sta064',
+		'fullName': 'Tasnia Akter Maya',
+		'email': 'tasniamaya.bsmrstu@gmail.com',
+		'phone': '01757-956954',
+		'bloodGroup': 'a+',
+		'district': 'Mymensingh',
+		'avatar': 'maya64'
+	},
+	{
+		'studentId': '17sta065',
+		'fullName': 'S.M. Istiak Ahmed',
+		'email': 'istiyaklemon418@gmail.com',
+		'phone': '01789-247940',
+		'bloodGroup': 'o+',
+		'district': 'Satkhira',
+		'avatar': 'istiak65'
+	},
+	{
+		'studentId': '17sta066',
+		'fullName': 'Ali Ashraf Shakil',
+		'email': 'ashrafshakil443322@gmail.com',
+		'phone': '01731-466297',
+		'bloodGroup': 'a+',
+		'district': 'Netrokna',
+		'avatar': 'asraf66'
+	},
+	{
+		'studentId': '17sta067',
+		'fullName': 'Jinath Jahan Joly',
+		'email': 'jinathjoly120@gmail.com',
+		'phone': '01913-137662',
+		'bloodGroup': 'b+',
+		'district': 'Khulna',
+		'avatar': 'jinath66'
+	},
+	{
+		'studentId': '17sta069',
+		'fullName': 'Mejba Rahman',
+		'email': 'mejbasupto@gmail.com',
+		'phone': '01759-803301',
+		'bloodGroup': 'b+',
+		'district': 'Faridpur',
+		'avatar': 'mejba69'
+	},
+	{
+		'studentId': '17sta070',
+		'fullName': 'Saimoon Hasan Rabbi',
+		'email': 'simanstat123@gmail.com',
+		'phone': '01908-255976',
+		'bloodGroup': 'a+',
+		'district': 'Gopalganj',
+		'avatar': 'simon70'
+	},
+	{
+		'studentId': '17sta072',
+		'fullName': 'Md.Ahsan Habib',
+		'email': 'a.ahsan1998@gmail.com',
+		'phone': '01521102430',
+		'bloodGroup': 'B+',
+		'district': 'Munshiganj',
+		'avatar': 'ahsan72'
+	},
+	{
+		'studentId': '16sta067',
+		'fullName': 'Khalid Hasan',
+		'email': 'khalidhasan.royal@gmail.com',
+		'phone': '01684-221698',
+		'bloodGroup': 'a+',
+		'district': 'Comilla',
+		'avatar': 'khalid'
+	},
+	{
+		'studentId': '16sta082',
+		'fullName': 'Syed Shawon Reza',
+		'email': 'syedshawonreza00@gmail.com',
+		'phone': '01939-494643',
+		'bloodGroup': 'o+',
+		'district': 'Narail',
+		'avatar': 'shawonreza82'
+	},
+	{
+		'studentId': '16sta116',
+		'fullName': 'Rabin Tikadar',
+		'email': 'tikadarrabian@gmail.com',
+		'phone': '01785-035608',
+		'bloodGroup': 'a+',
+		'district': 'Gopalganj',
+		'avatar': 'rabin116'
+	},
+	{
+		'studentId': '16sta119',
+		'fullName': 'Md. Amran Hossain Biswas',
+		'email': 'plabon948@gmail.com',
+		'phone': '01704-058684/01916-309211',
+		'bloodGroup': 'a+',
+		'district': 'Mymensingh',
+		'avatar': 'plabon119'
+	}
+]
